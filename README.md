@@ -4,12 +4,13 @@ This is my GitHub profile.
 I'm a software engineer with a passion for **system engineering**.
 
 ## 42 projects
-Here are some of the projects I've already done at *42*:
+Here are some of the projects I've already done at **42**:
 <br>
 <ul>
     <li><a href="https://github.com/0x416c6941/Libft">Libft</a>
-        <i>(includes get_next_line and ft_printf)</i></li>
+        (includes <b>get_next_line</b> and <b>ft_printf</b>)</li>
     <li><a href="https://github.com/0x416c6941/push_swap">push_swap</a></li>
+    <li><a href="https://github.com/0x416c6941/minishell">minishell</a></li>
 </ul>
 
 <!--
