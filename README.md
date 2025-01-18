@@ -5,13 +5,10 @@ I'm a software engineer with a passion for **system engineering**.
 
 ## 42 projects
 Here are some of the projects I've already done at **42**:
-<br>
-<ul>
-    <li><a href="https://github.com/0x416c6941/Libft">Libft</a>
-        (includes <b>get_next_line</b> and <b>ft_printf</b>)</li>
-    <li><a href="https://github.com/0x416c6941/push_swap">push_swap</a></li>
-    <li><a href="https://github.com/0x416c6941/minishell">minishell</a></li>
-</ul>
+* [libft](https://github.com/0x416c6941/Libft)
+    (includes **get_next_line** and **ft\_printf**)
+* [push\_swap](https://github.com/0x416c6941/push_swap)
+* [minishell](https://github.com/0x416c6941/minishell)
 
 <!--
 ## FIT CTU projects (projekty z FIT ČVUT)
