@@ -10,6 +10,7 @@ Here are some of the projects I've already done at **42**:
 * [push\_swap](https://github.com/0x416c6941/push_swap)
 * [minishell](https://github.com/0x416c6941/minishell)
 * [CPP Modules 0-4](https://github.com/0x416c6941/cpp04)
+* [cub3D](https://github.com/0x416c6941/cub3D)
 
 <!--
 ## FIT CTU projects (projekty z FIT ČVUT)
