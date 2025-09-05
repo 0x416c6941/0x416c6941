@@ -16,7 +16,7 @@ I'm passionate about low-level programming.
 Here are some of the bigger projects I've worked on:
 
 - [webserv](https://github.com/0x416c6941/webserv): An implementation of an HTTP 1.1 compliant web server written in **C++** based on **POSIX sockets**.
-- [minishell](https://github.com/0x416c6941/minishell): A recreation of a basic *Unix shell* in **C**.
+- [minishell](https://github.com/0x416c6941/minishell): A recreation of a basic UNIX shell in **C**.
 - [cub3D](https://github.com/0x416c6941/cub3D): A graphics project in **C** using **X Window System** about creating a 3D maze using the raycasting technique.
 
 ---
