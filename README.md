@@ -1,6 +1,4 @@
-<div align="center">
-    <h1>Hi there, I'm Asset!</h1>
-</div>
+<h1>Hi there, I'm Asset!</h1>
 
 ---
 
@@ -16,9 +14,9 @@ I'm passionate about low-level programming.
 
 Here are some of the bigger projects I've worked on:
 
-- [webserv](https://github.com/0x416c6941/webserv): An implementation of an HTTP 1.1 compliant web server written in **C++**. This project was a deep dive into network programming based on **POSIX sockets**, and taught me a ton about handling HTTP requests and responses.
+- [webserv](https://github.com/0x416c6941/webserv): An implementation of an HTTP 1.1 compliant web server written in **C++** based on **POSIX sockets**, which taught me a ton about handling HTTP requests and responses.
 - [minishell](https://github.com/0x416c6941/minishell): A recreation of a basic *Unix shell* in **C**, which involved parsing commands, handling process execution, and managing I/O redirection.
-- [cub3D](https://github.com/0x416c6941/cub3D): A graphics project in **C** and **X Window System** that involved creating a 3D maze using the raycasting technique, inspired by the game **Wolfenstein 3D**.
+- [cub3D](https://github.com/0x416c6941/cub3D): A graphics project in **C** using **X Window System** about creating a 3D maze using the raycasting technique, inspired by the game **Wolfenstein 3D**.
 
 ---
 
@@ -33,6 +31,4 @@ Pokud studujete **FIT ČVUT**, tak pro Vás potenciálně užitečné mohou být
 
 ### Get in Touch!
 
-The easiest way to contact me is through **LinkedIn**. Feel free to connect!
-
-[Click Me!](https://linkedin.com/in/sagymbayev/)
+The easiest way to contact me is through [LinkedIn](https://linkedin.com/in/sagymbayev/). Feel free to connect!
