@@ -1,38 +1,38 @@
-## Hi there 👋
-This is my GitHub profile.
-<br>
-I'm a software engineer with a passion for **system engineering**.
+<div align="center">
+    <h1>Hi there, I'm Asset!</h1>
+</div>
 
-## 42 projects
-Here are some of the projects I've already done at **42**:
-* [Libft](https://github.com/0x416c6941/Libft)
-    (includes **get_next_line** and **ft\_printf**)
-* [push\_swap](https://github.com/0x416c6941/push_swap)
-* [minishell](https://github.com/0x416c6941/minishell)
-* [CPP Modules 0-4](https://github.com/0x416c6941/cpp04)
-* [cub3D](https://github.com/0x416c6941/cub3D)
+---
 
-<!--
-## FIT CTU projects (projekty z FIT ČVUT)
-Here are projects you may find yourself if you study at *FIT CTU*:
-<br>
-(Tady jsou projekty, které by vám mohly pomoci, pokud studujete na *FIT ČVUT*):
-<br>
-<ul>
-</ul>
--->
+### About Me
 
-<!--
-**0x416c6941/0x416c6941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **22 year old C/C++ developer** currently mastering my skills at **42 Prague**.
 
-Here are some ideas to get you started:
+I'm passionate about low-level programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Projects
+
+Here are some of the bigger projects I've worked on:
+
+- [webserv](https://github.com/0x416c6941/webserv): An implementation of an HTTP 1.1 compliant web server written in **C++**. This project was a deep dive into network programming based on **POSIX sockets**, and taught me a ton about handling HTTP requests and responses.
+- [minishell](https://github.com/0x416c6941/minishell): A recreation of a basic *Unix shell* in **C**, which involved parsing commands, handling process execution, and managing I/O redirection.
+- [cub3D](https://github.com/0x416c6941/cub3D): A graphics project in **C** and **X Window System** that involved creating a 3D maze using the raycasting technique, inspired by the game **Wolfenstein 3D**.
+
+---
+
+### For My Czech Friends
+
+Pokud studujete **FIT ČVUT**, tak pro Vás potenciálně užitečné mohou být vyřešené úlohy z následujících předmětů:
+- [BI-PA1](https://github.com/0x416c6941/BI-PA1.21)
+- [BI-PA2](https://github.com/0x416c6941/BI-PA2.21)
+- [BI-SAP](https://github.com/0x416c6941/BI-SAP.21)
+
+---
+
+### Get in Touch!
+
+The easiest way to contact me is through **LinkedIn**. Feel free to connect!
+
+[Click Me!](https://linkedin.com/in/sagymbayev/)
