@@ -1,4 +1,6 @@
-<h1>Hi there, I'm Asset!</h1>
+<div align="center">
+    <b>Hi there, I'm Asset! 👋</b>
+</div>
 
 ---
 
@@ -14,9 +16,9 @@ I'm passionate about low-level programming.
 
 Here are some of the bigger projects I've worked on:
 
-- [webserv](https://github.com/0x416c6941/webserv): An implementation of an HTTP 1.1 compliant web server written in **C++** based on **POSIX sockets**, which taught me a ton about handling HTTP requests and responses.
-- [minishell](https://github.com/0x416c6941/minishell): A recreation of a basic *Unix shell* in **C**, which involved parsing commands, handling process execution, and managing I/O redirection.
-- [cub3D](https://github.com/0x416c6941/cub3D): A graphics project in **C** using **X Window System** about creating a 3D maze using the raycasting technique, inspired by the game **Wolfenstein 3D**.
+- [webserv](https://github.com/0x416c6941/webserv): An implementation of an HTTP 1.1 compliant web server written in **C++** based on **POSIX sockets**.
+- [minishell](https://github.com/0x416c6941/minishell): A recreation of a basic *Unix shell* in **C**.
+- [cub3D](https://github.com/0x416c6941/cub3D): A graphics project in **C** using **X Window System** about creating a 3D maze using the raycasting technique.
 
 ---
 
