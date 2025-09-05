@@ -1,10 +1,9 @@
 <div align="center">
-    <b>Hi there, I'm Asset! 👋</b>
+    <h1>Hi there, I'm Asset! 👋</h1>
 </div>
 
----
 
-### About Me
+### About Me 😄
 
 I'm a **22 year old C/C++ developer** currently mastering my skills at **42 Prague**.
 
@@ -12,7 +11,7 @@ I'm passionate about low-level programming.
 
 ---
 
-### My Projects
+### My Projects ✍️
 
 Here are some of the bigger projects I've worked on:
 
@@ -22,7 +21,7 @@ Here are some of the bigger projects I've worked on:
 
 ---
 
-### For My Czech Friends
+### For My Czech Friends 🇨🇿
 
 Pokud studujete **FIT ČVUT**, tak pro Vás potenciálně užitečné mohou být vyřešené úlohy z následujících předmětů:
 - [BI-PA1](https://github.com/0x416c6941/BI-PA1.21)
@@ -31,6 +30,6 @@ Pokud studujete **FIT ČVUT**, tak pro Vás potenciálně užitečné mohou být
 
 ---
 
-### Get in Touch!
+### Get in Touch! 📩
 
 The easiest way to contact me is through [LinkedIn](https://linkedin.com/in/sagymbayev/). Feel free to connect!
