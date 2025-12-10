@@ -1,6 +1,4 @@
-<div align="center">
-    <h1>Hi there, I'm Asset! 👋</h1>
-</div>
+# Hi there, I'm Asset! 👋
 
 ### About Me 😄
 
