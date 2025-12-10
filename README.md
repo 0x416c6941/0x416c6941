@@ -2,7 +2,6 @@
     <h1>Hi there, I'm Asset! 👋</h1>
 </div>
 
-
 ### About Me 😄
 
 I'm a **22 year old C/C++ developer** currently mastering my skills at **42 Prague**.
@@ -18,6 +17,7 @@ Here are some of the bigger projects I've worked on:
 - [webserv](https://github.com/0x416c6941/webserv): An implementation of an HTTP 1.1 compliant web server written in **C++** based on **POSIX sockets**.
 - [minishell](https://github.com/0x416c6941/minishell): A recreation of a basic UNIX shell in **C**.
 - [cub3D](https://github.com/0x416c6941/cub3D): A graphics project in **C** using **X Window System** about creating a 3D maze using the raycasting technique.
+- [ft\_transcendence](https://github.com/0x416c6941/ft_transcendence): A full-stack ping-pong game.
 
 ---
 
