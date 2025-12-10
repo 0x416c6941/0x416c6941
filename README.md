@@ -4,7 +4,7 @@
 
 ### About Me 😄
 
-I'm a **22 year old C/C++ developer** currently mastering my skills at **42 Prague**.
+I'm a **22 year old Software Engineer** currently mastering my skills at **42 Prague**.
 
 I'm passionate about low-level programming.
 
